@@ -30,5 +30,3 @@ The goal of this task is to **create a bar chart or histogram** to visualize the
 - Highlights how most countries fall into lower/mid population ranges.
 
 
-## 📂 Repository Structure
-
