@@ -28,5 +28,3 @@ The goal of this task is to **create a bar chart or histogram** to visualize the
 ### 2. **Histogram**
 - Shows the frequency distribution of populations across countries.
 - Highlights how most countries fall into lower/mid population ranges.
-
-
